@@ -1,9 +1,11 @@
 #include <stdio.h>
 
 /*
- * Main entry point
+ * main - entry point
  *
  *  Description: Print with proper grammar, but the outcome is a piece of art.
+ *
+ *  Return: Always 0 (Success)
  */
 
 int main(void)
