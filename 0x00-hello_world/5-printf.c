@@ -1,12 +1,12 @@
 #include <stdio.h>
 
-/*
- * main - entry point
+/**
+ *main - Entry point
  *
- *  Description: Print with proper grammar, but the outcome is a piece of art.
+ *Description: Print with proper grammar, but the outcome is a piece of art.
  *
- *  Return: Always 0 (Success)
- */
+ *Return: Always 0 (Success)
+ **/
 
 int main(void)
 {
