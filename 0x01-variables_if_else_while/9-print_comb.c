@@ -2,8 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- *
- * prints all possible combinations of single-digit numbers
+ * main - Entry point
  *
  * Return: Always 0 (Success)
  *
