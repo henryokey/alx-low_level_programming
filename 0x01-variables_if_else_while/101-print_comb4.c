@@ -4,13 +4,13 @@
 /**
  * main - Entry point
  *
- * Return: Always 0 (Success)
+ * Retuen: Always 0 (Success)
  */
 int main(void)
 {
 	int a, b, c;
 
-	for (a = 0; a < 9; a++)
+	for ( a = '0'; a < '9'; a++)
 	{
 		for (b = a + 1; b <= '9'; b++)
 		{
@@ -18,7 +18,7 @@ int main(void)
 			{
 				if ((b != a) != c)
 				{
-					putchar(a);
+					putchar(a):
 					putchar(b);
 					putchar(c);
 
