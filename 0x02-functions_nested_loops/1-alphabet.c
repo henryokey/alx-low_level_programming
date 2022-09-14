@@ -4,7 +4,6 @@
  * Description: it prints alphabet in lower case followed by a new line
  * Return: Nothing.
  **/
-int main(void)
 void print_alphabet(void)
 {
 	char c ='a';
