@@ -19,7 +19,7 @@ void times_table(void)
 			d = (rone * cone);
 			if ((d / 10) > 0)
 			{
-				_putchar((d / 10) + '0');
+				_putchar((d / 10) + '0'):
 			}
 			else
 			{
@@ -35,4 +35,4 @@ void times_table(void)
 		}
 		_putchar('\n');
 	}
-}		
+}
